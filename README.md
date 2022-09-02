@@ -1,3 +1,5 @@
+One-class Learning for Face Anti-spoofing via Pseudo-negative Sampling
+
 # PNS-release (The codes will be uploaded after the submitted paper is accepted)
 ## Results
 #### Results of face anti-spoofing by the proposed method based on CASIA and Replay-Attack datasets.
